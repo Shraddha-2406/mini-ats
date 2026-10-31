@@ -1,0 +1,10 @@
+node_modulnode_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+browse/
+data/
+geometry/
+miscellaneous/
